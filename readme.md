@@ -1,9 +1,9 @@
 example:
 
-functional component:
+**functional component:**
 
-node react_component_func.js -n="ComponentName" -f=true
+`node react_component_func.js -n="ComponentName" -f=true`
 
-class component:
+**class component:**
 
-node react_component_func.js -n="ComponentName"
+`node react_component_func.js -n="ComponentName"`
