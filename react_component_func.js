@@ -60,7 +60,7 @@ export class ${argv.name} extends Component {
     }
 }
 
-export default ${argv.name}
+export default ${argv.name};
     `;
 }
 
